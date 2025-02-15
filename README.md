@@ -1,3 +1,3 @@
 Hello there.
 
-Have a nice day, now.
+Have a nice day now.
